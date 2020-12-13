@@ -22,12 +22,11 @@ screens:
 Todo:
 ------
 
-- - frontend:
+* frontend:
 - table
 - forms: edit
 - forms: create
-- - dialogs
-
+- dialogs
 
 - backend:
--- add validations: time constrains (end_date>=start_date)
+- - add validations: time constrains (end_date>=start_date)
